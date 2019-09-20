@@ -1,2 +1,2 @@
 # github-demo
-The first time use Git
+The first time use GitHub
